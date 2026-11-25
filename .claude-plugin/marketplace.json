@@ -1,0 +1,5 @@
+{
+  "name": "claude-look-themes",
+  "owner": { "name": "joshuamcdaid3-stack" },
+  "plugins": [{ "name": "look", "source": "./" }]
+}
